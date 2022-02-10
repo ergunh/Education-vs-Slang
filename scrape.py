@@ -18,7 +18,7 @@ keyword = "education"
 csvFile = open('scraped1.csv', 'a', newline='', encoding='utf8')
 #Use csv writer
 csvWriter = csv.writer(csvFile)
-csvWriter.writerow(['url','date', 'like count','replys','retweets','tweet','metaphorFamily'])
+csvWriter.writerow(['url','date', 'like count','replys','retweets','tweet'])
 
 # Write tweets into the csv filter
 for i in range(maxTweets2):
