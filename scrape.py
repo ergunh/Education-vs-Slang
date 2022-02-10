@@ -12,7 +12,7 @@ maxTweets = 10
 # How many different dates (set high #)
 maxTweets2 = 3
 # Set what keywords you want your twitter scraper to pull
-# to-do immigration, border, illegals, undocumented, foreigner, refugee, deport, wall, detention centers, Mexicans, DACA
+
 keyword = "education"
 #Open/create a file to append data to
 csvFile = open('scraped1.csv', 'a', newline='', encoding='utf8')
