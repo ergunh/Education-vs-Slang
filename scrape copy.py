@@ -6,11 +6,8 @@ import os
 import time
 
 # Set maximum tweets to pull
-# How many tweets per specific date (set low # - medium #)
 maxTweets = 10
-
-# How many different dates (set high #)
-maxTweets2 = 300
+maxTweets2 = 1
 # Set what keywords you want your twitter scraper to pull
 # to-do immigration, border, illegals, undocumented, foreigner, refugee, deport, wall, detention centers, Mexicans, DACA
 keyword = "education"
@@ -42,6 +39,6 @@ csvFile.close()
 i = 0
 
 while i < 1:
-    os.system('say "Bing Bong, Scraping tweets is done."')
+    os.system('say "Scraping tweets is done."')
     time.sleep(3)
     i = i + 1
