@@ -19,4 +19,4 @@ This is *your* repo. You are free to manage the repo as you see fit, edit this R
 
 Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!\
 
-👀 👀
+👀 👀 🍄
